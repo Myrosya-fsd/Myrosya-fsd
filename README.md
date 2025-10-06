@@ -1,4 +1,4 @@
-# Hello, I'm Myroslava 🤏✋
+# Hello, I'm Myroslava ✋
 
 Welcome to my profile.
 
