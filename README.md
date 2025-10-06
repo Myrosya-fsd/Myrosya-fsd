@@ -9,7 +9,7 @@ Welcome to my profile.
 
 ![image](img/image.png)
 
-![certificate](img/Certificate.pdf)
+[certificate](img/Certificate.pdf)
 
 👩‍💻 About me:
 My name is Myroslava, I am a frontend developer who wants to develop in IT and create digital products.
