@@ -12,7 +12,7 @@ Welcome to my profile.
 [certificate](img/Certificate.pdf)
 
 👩‍💻 About me:
-My name is Myroslava, I am a frontend developer who wants to develop in IT and create digital products.
+My name is Myroslava, and I am a frontend developer who wants to develop in IT and create digital products.
 🌍 I live in Ukraine and Poland.
 
 🔧 My technical skills:
