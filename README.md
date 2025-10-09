@@ -5,7 +5,7 @@ Welcome to my profile.
 🧰 My stack:
 
 • HTML • CSS • JavaScript • React • TypeScript • GitHub • Vite • Figma •Node.JS • Vercel
-• Render • Trello • MongoDB • Swagger • Next.js • Angular
+• Render • Trello • MongoDB • Swagger • Next.js 
 
 ![image](img/image.png)
 
