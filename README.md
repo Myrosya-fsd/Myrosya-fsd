@@ -38,3 +38,23 @@ Harmoniq:
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Myrosya-fsd/Harmoniq)
 [![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white)](https://mindflow-frontend.vercel.app/)
+
+organic vegetables:
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Myrosya-fsd/organic_vegetables)
+[![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white)](https://myrosya-fsd.github.io/organic_vegetables/)
+
+nodejs-mongodb:
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Myrosya-fsd/nodejs-mongodb)
+[![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)](https://nodejs-mongodb-gyru.onrender.com/)
+
+news page:
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Myrosya-fsd/news_page)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://myrosya-fsd.github.io/news_page/)
+
+react-movies:
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Myrosya-fsd/03-react-movies)
+[![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white)](https://03-react-movies-puce-three.vercel.app/)
