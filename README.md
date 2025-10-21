@@ -26,3 +26,15 @@ My goal is to become a strong front-end developer who creates functional, vibran
 
 📈 Motivates me:
 I am motivated by seeing real results of my work - it gives me meaning and energy.
+
+🧩My projects:
+
+TravelTrucks:
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Myrosya-fsd/TravelTrucks)
+[![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white)](https://travel-trucks-beige-tau.vercel.app/)
+
+Harmoniq: 
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Myrosya-fsd/Harmoniq)
+[![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white)](https://mindflow-frontend.vercel.app/)
